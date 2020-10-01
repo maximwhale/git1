@@ -1,10 +1,12 @@
 start
 {
 banana
-
+(new stuff)
 
 }
 update
 {
 hello there
 }
+
+(new stuff)
